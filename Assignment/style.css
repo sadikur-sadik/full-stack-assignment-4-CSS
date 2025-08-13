@@ -1,0 +1,47 @@
+:root{
+--base-color:#4caf50;
+--second-color:#fff;
+--third-color:#def3ef;
+}
+
+
+
+
+
+.pro{height:300px;width:300px;}
+#logo{height:30px;width:30px;}
+.csvg{height=50px;width:50px;}
+
+/* CSS Document */
+
+/* HEADER */
+.sechf{background-color: var(--base-color); margin:1.5rem;padding:1rem 2rem 1rem 2rem;
+    border-radius:1rem;box-shadow: #000000 2rem;}
+   
+   
+                                    /*body*/
+
+body{background-color: var(--second-color);}
+                               
+                                            /* main */
+
+
+                                .seccom{ background-color: var(--third-color);
+    margin:1.5rem;padding:1rem 2rem 1rem 2rem;border-radius:1rem;box-shadow: #000000 2rem;
+    }
+
+    #tro,#market,#mori{
+text-align: center; color:var(--base-color);
+text-transform:capitalize;
+letter-spacing:0.1rem;
+ 
+font-weight: 900;
+font-familyL: 'Courier New', Courier, monospace;
+    }
+    #bp{font-size: 1.5rem; font-weight: 900;;}
+                                        
+                                    /*footer*/
+
+    #ulc{list-style:none}
+
+    
